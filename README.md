@@ -1,16 +1,35 @@
-## Hi there 👋
+# 🤖 Proyecto de Automatizaciones con IA
 
-<!--
-**davidlolomg/davidlolomg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! 👋  
+Soy estudiante de **DAM (Desarrollo de Aplicaciones Multiplataforma)** y este repositorio forma parte de mi **proyecto personal de Automatizaciones**, donde combino programación, sistemas e **inteligencia artificial**.
 
-Here are some ideas to get you started:
+## 🚀 Objetivo del proyecto
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+El objetivo principal es aprender y experimentar con:
+- Automatización de tareas
+- Uso de **IA** en procesos automáticos
+- Optimización de flujos de trabajo
+- Integración de distintas tecnologías
+
+Este proyecto está en una **fase inicial**, pero irá creciendo con el tiempo.
+
+## 🧠 Tecnologías e ideas que me interesan
+
+- Inteligencia Artificial 🤖
+- Automatización de procesos ⚙️
+- Scripts y herramientas de productividad
+- Backend y lógica de negocio
+- APIs y servicios externos
+
+## 🛠️ Tecnologías previstas
+
+Según vaya avanzando, el proyecto podrá incluir:
+- Python
+- Java / Kotlin
+- Bash / PowerShell
+- APIs REST
+- IA (modelos, automatización inteligente, etc.)
+- Bases de datos
+
+## 📂 Estructura del repositorio (provisional)
+
